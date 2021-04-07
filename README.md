@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things nature!
 - 🌱 I’m currently learning Node.js, JavaScript, HTMNL, CSS, jQuery, Express, Mern Stack 
 - 📫 How to reach me jovan.m.nixon@gmail.com
-- Hope to connect wiht you soon!
+- Hope to connect with you soon!
 
 <!---
 jmnfire/jmnfire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
