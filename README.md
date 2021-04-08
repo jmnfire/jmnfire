@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Jovan!
-- 👀 I’m interested in all things nature!
+- 👀 I’m interested in all things outdoors! Snowboarding, wakeboarding, hiking, rock climbing, you name it! 
 - 🌱 I’m currently learning Node.js, JavaScript, HTMNL, CSS, jQuery, Express, Mern Stack 
 - 📫 How to reach me jovan.m.nixon@gmail.com
 - Hope to connect with you soon!
